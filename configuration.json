@@ -1,0 +1,5 @@
+{
+    "url" : "https://donnees.roulez-eco.fr/opendata/instantane",
+    "file" : "PrixCarburants_instantane.xml",
+    "fuels" : ["Gazole", "SP95", "SP98", "GPLc", "E10", "E85"]
+}
